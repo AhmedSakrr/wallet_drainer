@@ -77,7 +77,7 @@ ETH, BNB + BEP20, ERC20 drainer Nova clone. The rest are fake or resellers
 
 ## `🐧 Socials`
 
-- Telegram: https://t.me/bakasine
+- Telegram: [link](https://t.me/bakasine)
 
 ⛔ DON'T DM ME IF YOU CAN'T AFFORD THE PRICE.
 
