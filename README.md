@@ -5,7 +5,7 @@ ETH, BNB + BEP20, ERC20 drainer Nova clone. The rest are fake or resellers
 
 # SELLING DRAINER ` [All features in One Crypto Drainer] `
  ### 📩 **Message me on [Telegram](https://t.me/bakasine) to buy the full backend + frontend clean source codes.**
- ### 📩 **私信我 [Telegram](https://t.me/bakasine) 购买完整获取前后端代码 **
+ ### 📩 **私信我 [Telegram](https://t.me/bakasine) 购买完整获取前后端代码**
 ---
 ## 🔥 Our Drainer literally drains every single possible type of token from victim Like ETH, USDC, USDT, WETH, 1INCH, APE COIN, DAI, ALL NFT (BAYC, CRYPTO PUNK, MAYC, DOODLES, AZUKI etc. )
 
